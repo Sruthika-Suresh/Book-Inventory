@@ -1,0 +1,14 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "mongodb": "^4.0.0",
+    "nodemon": "^20.15.0"
+  }
+
+
+}
+
